@@ -1,4 +1,4 @@
-# Welcome my profile💻💻
+# Welcome my profile💻💻👋👋
 ## I am a student at IPluso and I will post my work on my profile
 I'm going to follow this profile of my work that I'm going to do in the front-end and front-back course
 

@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aurora</h1>
+<h1 align="center">Hi 👋, I'm Pedro Place</h1>
 <h3 align="center">Front-End & Back-End Development Student</h3><p align="center">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="250">
 </p>---

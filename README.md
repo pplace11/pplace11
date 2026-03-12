@@ -15,9 +15,8 @@
 
 ---
 
-🚀 Technologies I'm Learning
 
-### 🚀 Technologies I'm Learning
+🚀 Technologies I'm Learning
 
 #### **Front-End**
 <p align="left">

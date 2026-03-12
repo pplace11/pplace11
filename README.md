@@ -39,15 +39,15 @@
 📊 GitHub Stats
 
 <p align="center">
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=pplace11&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pplace11&layout=compact&theme=tokyonight"/>
 </p>---
 
 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com/?user=SEUUSUARIO&theme=tokyonight" />
-</p>---
+  <img src="https://streak-stats.demolab.com?user=pplace11&theme=tokyonight&hide_border=false"/>
+</p>
 
 🌎 Connect With Me
 

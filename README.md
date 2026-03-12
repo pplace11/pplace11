@@ -34,8 +34,8 @@
 🌎 Connect With Me
 
 <p>
-<a href="#"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=instagram"/></a>
+<a href="https://www.instagram.com/ppcsantos11?igsh=MTJxZnpxMHJzMzU2bg=="><img src="https://skillicons.dev/icons?i=linkedin"/></a>
+<a href="https://www.linkedin.com/in/pedroplace?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://skillicons.dev/icons?i=instagram"/></a>
 </p>---
 
 ⭐ Follow my journey in programming and development!

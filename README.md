@@ -1,18 +1,41 @@
-# Welcome my profile💻💻👋👋
-## I am a student at IPluso and I will post my work on my profile
-I'm going to follow this profile of my work that I'm going to do in the front-end and front-back course
+<h1 align="center">Hi 👋, I'm Aurora</h1>
+<h3 align="center">Front-End & Back-End Development Student</h3><p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="250">
+</p>---
 
-<!--
-**pplace11/pplace11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👩‍💻 About Me
 
-Here are some ideas to get you started:
+🎓 I'm currently studying Front-End and Back-End Development at IPluso
+💡 I use this GitHub to share my projects, studies and experiments
+🚀 I'm passionate about technology and learning new programming skills
+📚 Always improving my knowledge in web development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+🚀 Technologies I'm Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" />
+</p>---
+
+📊 GitHub Stats
+
+<p align="center">
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=tokyonight"/>
+</p>---
+
+🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com/?user=SEUUSUARIO&theme=tokyonight" />
+</p>---
+
+🌎 Connect With Me
+
+<p>
+<a href="#"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=instagram"/></a>
+</p>---
+
+⭐ Follow my journey in programming and development!

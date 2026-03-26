@@ -8,10 +8,11 @@
 
 👩‍💻 About Me
 
-🎓 I'm currently studying Front-End and Back-End Development at IPluso
-💡 I use this GitHub to share my projects, studies and experiments
-🚀 I'm passionate about technology and learning new programming skills
-📚 Always improving my knowledge in web development
+<p>🎓 I'm currently studying Front-End and Back-End Development at IPluso</p>
+<p>💡 I use this GitHub to share my projects, studies and experiments</p>
+<p>🚀 I'm passionate about technology and learning new programming skills</p>
+<p>📚 Always improving my knowledge in web development</p>
+
 
 ---
 
